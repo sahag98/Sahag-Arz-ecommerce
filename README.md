@@ -3,6 +3,7 @@ Sahag Arz ecommerce is a React/Next js ecommerce web app using Sanity CMS for co
 Features:
 
 -Add or remove products easily by using Sanity.
+
 -Secure payments using Stripe.
 
 
