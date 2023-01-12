@@ -1,5 +1,6 @@
 Sahag Arz ecommerce is a React/Next js ecommerce web app using Sanity CMS for content management and Stripe for payments.
 https://sahag-arz-ecommerce.vercel.app/
+
 Features:
 
 -Add or remove products easily by using Sanity.
